@@ -12,6 +12,4 @@ Follow the stpes to Run the project.
 * Install dependencies by running ```npm install```
 * run ```npx react-native run-android```
 
-![alt homeScreen](https://github.com/hmahmud01/demo-rn-app/blob/master/screenshots/screen1.png =250x)
-
-![alt contactScreen](https://github.com/hmahmud01/demo-rn-app/blob/master/screenshots/screen2.png)
+![alt homeScreen](https://github.com/hmahmud01/demo-rn-app/blob/master/screenshots/screen1.png) ![alt contactScreen](https://github.com/hmahmud01/demo-rn-app/blob/master/screenshots/screen2.png)
