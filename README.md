@@ -14,6 +14,7 @@ Follow the stpes to Run the project.
 * Following screens should be accassible from app simulator once the project is ran.
 ![alt homeScreen](https://github.com/hmahmud01/demo-rn-app/blob/master/screenshots/screen1.png) ![alt contactScreen](https://github.com/hmahmud01/demo-rn-app/blob/master/screenshots/screen2.png)
 
+*Apk file is stored in the dist directory inside root project folder and named as app-release.apk*
 
 # CONCLUSION
 Make Sure a simulator is already running before you start the project.
